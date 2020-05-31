@@ -1,0 +1,27 @@
+2020-05-23T23:11:27+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Schemes\Typography' not found in C:\wamp64\www\tecnomaster\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php:242
+Stack trace:
+#0 C:\wamp64\www\tecnomaster\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php(96): HFE\WidgetsManager\Widgets\Cart->register_cart_typo_content_controls()
+#1 C:\wamp64\www\tecnomaster\wp-content\plugins\elementor\includes\base\controls-stack.php(1900): HFE\WidgetsManager\Widgets\Cart->_register_controls()
+#2 C:\wamp64\www\tecnomaster\wp-content\plugins\elementor\includes\base\controls-stack.php(487): Elementor\Controls_Stack->init_controls()
+#3 C:\wamp64\www\tecnomaster\wp-content\plugins\elementor\includes\base\widget-base.php(148): Elementor\Controls_Stack->get_stack()
+#4 C:\wamp64\www\tecnomaster\wp-content\plugins\elementor\includes\base\controls-stack.php(280): Elementor\Widget_Base->get_stack()
+#5 C:\wamp64\www\tecnomaster\wp-content\plugins\elementor\includes\base\contro, em C:\wamp64\www\tecnomaster\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php, na linha 242
+
+2020-05-23T23:11:34+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Schemes\Typography' not found in C:\wamp64\www\tecnomaster\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php:242
+Stack trace:
+#0 C:\wamp64\www\tecnomaster\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php(96): HFE\WidgetsManager\Widgets\Cart->register_cart_typo_content_controls()
+#1 C:\wamp64\www\tecnomaster\wp-content\plugins\elementor\includes\base\controls-stack.php(1900): HFE\WidgetsManager\Widgets\Cart->_register_controls()
+#2 C:\wamp64\www\tecnomaster\wp-content\plugins\elementor\includes\base\controls-stack.php(487): Elementor\Controls_Stack->init_controls()
+#3 C:\wamp64\www\tecnomaster\wp-content\plugins\elementor\includes\base\widget-base.php(148): Elementor\Controls_Stack->get_stack()
+#4 C:\wamp64\www\tecnomaster\wp-content\plugins\elementor\includes\base\controls-stack.php(280): Elementor\Widget_Base->get_stack()
+#5 C:\wamp64\www\tecnomaster\wp-content\plugins\elementor\includes\base\contro, em C:\wamp64\www\tecnomaster\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php, na linha 242
+
+2020-05-23T23:11:59+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Schemes\Typography' not found in C:\wamp64\www\tecnomaster\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php:242
+Stack trace:
+#0 C:\wamp64\www\tecnomaster\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php(96): HFE\WidgetsManager\Widgets\Cart->register_cart_typo_content_controls()
+#1 C:\wamp64\www\tecnomaster\wp-content\plugins\elementor\includes\base\controls-stack.php(1900): HFE\WidgetsManager\Widgets\Cart->_register_controls()
+#2 C:\wamp64\www\tecnomaster\wp-content\plugins\elementor\includes\base\controls-stack.php(487): Elementor\Controls_Stack->init_controls()
+#3 C:\wamp64\www\tecnomaster\wp-content\plugins\elementor\includes\base\widget-base.php(148): Elementor\Controls_Stack->get_stack()
+#4 C:\wamp64\www\tecnomaster\wp-content\plugins\elementor\includes\base\controls-stack.php(280): Elementor\Widget_Base->get_stack()
+#5 C:\wamp64\www\tecnomaster\wp-content\plugins\elementor\includes\base\contro, em C:\wamp64\www\tecnomaster\wp-content\plugins\header-footer-elementor\inc\widgets-manager\widgets\class-cart.php, na linha 242
+
